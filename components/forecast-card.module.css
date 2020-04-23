@@ -1,0 +1,31 @@
+.grid {
+    display: flex;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.image {
+    width: 60px;
+}
+
+.day {
+    width: 175px;
+}
+
+.temperature {
+    width: 125px;
+}
+
+.grid a {
+    color: black;
+    text-decoration: none;
+}
+
+.grid a:hover,
+.grid a:focus,
+.grid a:visited,
+.grid a:active {
+    color: black;
+    text-decoration: none;
+}
